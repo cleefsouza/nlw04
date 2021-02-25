@@ -33,7 +33,7 @@
 
 ### Executando testes
 - Execute o seguinte comando:
-   ```shell
+  ```shell
   yarn tests
   # ou
   npm run tests
