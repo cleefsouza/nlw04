@@ -33,11 +33,12 @@
 
 ### Executando testes
 - Execute o seguinte comando:
-  ```shell
-  yarn tests
-  # ou
-  npm run tests
-  ```
+
+    ```shell
+    yarn tests
+    # ou
+    npm run tests
+    ```
 ### Autor <div id="autor"></div>
 Aryosvalldo Cleef ─ [linkedin](https://www.linkedin.com/in/aryosvalldo-cleef/) ─ [@cleefsouza](https://github.com/cleefsouza)
 
