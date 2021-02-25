@@ -11,6 +11,25 @@
   ```shell
   git@github.com:cleefsouza/nlw04.git
   ```
+
+- Instale as dependências:
+  ```shell
+  yarn -i
+  # ou
+  npm install
+  ```
+
+- Executando api:
+  ```shell
+  yarn dev
+  # ou
+  npm run dev
+  ```
+
+### Recursos
+- `/user [POST]` - Cadastro de usuários 
+- `/survey [POST]` - Cadastro de presquisas
+- `/surveys [GET]` - Listagem das pesquisas cadastradas
  
 ### Autor <div id="autor"></div>
 Aryosvalldo Cleef ─ [linkedin](https://www.linkedin.com/in/aryosvalldo-cleef/) ─ [@cleefsouza](https://github.com/cleefsouza)
