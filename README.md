@@ -30,6 +30,7 @@
 - `/user [POST]` - Cadastro de usuários 
 - `/survey [POST]` - Cadastro de presquisas
 - `/surveys [GET]` - Listagem das pesquisas cadastradas
+- `/send-mail [POST]` - Envio de email
 
 ### Executando testes
 - Execute o seguinte comando:
